@@ -26,3 +26,4 @@ CSS Selectors 101: Targeting Elements with Precision - https://hashnode.com/post
 
 Emmet for HTML: A Beginner’s Guide to Writing Faster Markup - https://hashnode.com/post/cml10fvcn001102l71ha64d7y
 
+Linux File System Hunting - ![Click here](https://shriyanshagarwal.hashnode.dev/linux-under-the-hood-a-filesystem-investigation)
